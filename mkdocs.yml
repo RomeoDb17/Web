@@ -1,4 +1,6 @@
 site_name: Romeo Dominguez
+site_url: https://romeodb17.github.io/Web/
 theme: readthedocs
 nav:
+  - Inicio: index.md
   - Control de Versiones: control_de_versiones.md
