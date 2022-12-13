@@ -1,4 +1,4 @@
 site_name: Romeo Dominguez
 theme: readthedocs
 nav:
-  - Control de Versiones: index.md
+  - Control de Versiones: control_de_versiones.md
